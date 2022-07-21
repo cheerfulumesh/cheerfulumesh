@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @cheerfulumesh
+- 👋 Hi, I’m Umesh Patil
 - 👀 I’m a hard core java developer, have worked on banking, e-commerce projects.
 - 🌱 I’m currently learning Amazon Web Serices
 - 💞️ I’m looking to collaborate on open source projects
